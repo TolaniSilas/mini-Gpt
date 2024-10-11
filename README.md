@@ -1,1 +1,3 @@
-# mini-Gpt
+# mini-GPT
+
+Implementation of GPT-2 from the paper [Language Models are Unsupervised Multitask Learners](https://r.search.yahoo.com/_ylt=AwrFNOwUWwlnFwIAC9NXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1729875988/RO=10/RU=https%3a%2f%2fwww.semanticscholar.org%2fpaper%2fLanguage-Models-are-Unsupervised-Multitask-Learners-Radford-Wu%2f9405cc0d6169988371b2755e573cc28650d14dfe%23%3a~%3atext%3dIt%2520is%2520demonstrated%2520that%2520language%2520models%2520begin%2520to%2cto%2520perform%2520tasks%2520from%2520their%2520naturally%2520occurring%2520demonstrations./RK=2/RS=w8kBrHJxv4OSRhgsi6D9mRVA0Ng-)
